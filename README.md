@@ -1,5 +1,5 @@
 
-## About me :mortar_board:
+## Sobre mim :mortar_board:
 	- 📈 22 years old
 	- 🌐 Full Stack Developer
 
