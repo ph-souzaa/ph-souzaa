@@ -22,9 +22,3 @@
 
 </div>
 
-</div>
-<div align = "center">
-	<br>
-	Thanks for stopping by! 😁
-	<br>
-</div>
