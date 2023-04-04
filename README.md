@@ -5,11 +5,6 @@
 <br>
 </div>
 
-## Sobre mim :mortar_board:
-	- 🌐 Full Stack Developer
-	- 📈 22 Anos
-	
-
 ## Aprendendo 📖
 <div align = "center">
  	<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
